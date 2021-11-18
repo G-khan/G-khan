@@ -10,3 +10,4 @@ I have been developing software applications since my High school years. I start
 - You can read my articles on <a href="https://gokhana.medium.com/">Medium</a> ✍️
 - You can follow me on <a href="https://twitter.com/g_khana">Twitter</a> 🐦
 - You can send me a message on   <a class="line" target="_blank" href="mailto:gkhan.a.06@gmail.com"> gokhana@mail.com</a> 📧
+- 1:1 Superpeer ⟶ [Superpeer](https://superpeer.com/gokhana)
