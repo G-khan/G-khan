@@ -19,10 +19,19 @@ I am  a open source lover, a software engineer, a <a href="https://gokhana.mediu
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=g-khan&show_icons=true&locale=en&theme=github_dark" alt="Gokhan's GitHub Stats" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-khan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Gökhan's Most Used Languges" /></p>
+<div align="center">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-khan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Gökhan's Most Used Languges" />
 
-<p align="center"> <a href="https://twitter.com/gokhanadev" target="blank"><img src="https://img.shields.io/twitter/follow/gokhanadev?logo=twitter&style=for-the-badge" alt="gokhanadev" /></a> </p>
+<br />
+<br />
+
+ <a href="https://twitter.com/gokhanadev" target="blank"><img src="https://img.shields.io/twitter/follow/gokhanadev?logo=twitter&style=for-the-badge" alt="gokhanadev" /></a> 
+
+ <a href="https://www.linkedin.com/in/gokhanadev/)" target="blank"><img src="https://img.shields.io/badge/gokhanadev-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin" alt="gokhanadev" /></a> 
+ 
+ 
+ </div>
 
 ## Find me around the web 🌎:
 - My personal website  ⟶  <a href="https://gokhana.dev/">gokhana.dev</a>
