@@ -28,9 +28,12 @@ I am  a open source lover, a software engineer, a <a href="https://gokhana.mediu
 
  <a href="https://twitter.com/gokhanadev" target="blank"><img src="https://img.shields.io/twitter/follow/gokhanadev?logo=twitter&style=for-the-badge" alt="gokhanadev" /></a> 
 
+
+
  <a href="https://www.linkedin.com/in/gokhanadev/)" target="blank"><img src="https://img.shields.io/badge/gokhanadev-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin" alt="gokhanadev" /></a> 
  
- 
+  [![GitHub followers](https://img.shields.io/github/followers/g-khan?logo=GitHub&style=for-the-badge)](https://github.com/g-khan)  &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/G-khan?logo=github&style=for-the-badge)](https://github.com/G-khan) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/G-khan?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/G-khab)
+
  </div>
 
 ## Find me around the web 🌎:
