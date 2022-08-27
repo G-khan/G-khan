@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there, I'm Gökhan 👋 </h2>
 
 <h3 align="center"> 
-I am  a open source lover, a software engineer, a <a href="https://gokhana.medium.com">tech blogger</a> and Co-Organizer of <a href="https://turkeyjava.com">Turkey Java Community</a>
+I am  an open source lover, a software engineer, a <a href="https://gokhana.medium.com">tech blogger</a> and Co-Organizer of <a href="https://turkeyjava.com">Turkey Java Community</a>
  </h3>
 
 >  I have been developing software applications since my High school years. I started to work as a software engineer in 2016 and focused on backend development.
